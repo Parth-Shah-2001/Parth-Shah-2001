@@ -1,22 +1,24 @@
+<h3><b>About</h3><b>
+
 - 👋 Hi, I’m @Parth-Shah-2001
 - 👀 I’m interested in ... Machine learning , Data analysis , Frontend web devlopment
 - 🌱 I’m currently learning ...Machine learning 
 - 📫 Connect with me : 8849535874
 
--Current Project
+<h3><b>Current Project</h3><b>
 
 Currently working on building a Advance Shopping cart which has User and Admin Profile to distrubute end points with advance latest authentication features
 
--Technologies 
+<h3><b>Technologies</b></h3>
 
-Java
-Node Js
-React Js
-HTML
-CSS
-JS
-Python3
-Machine Learning
+<li>Java</li>
+<li>Node Js</li>
+<li>React Js</li>
+<li>HTML</li>
+<li>CSS</li>
+<li>JavaScript</li>
+<li>Python3</li>
+<li>Machine Learning</li>
 
 <!---
 Parth-Shah-2001/Parth-Shah-2001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
