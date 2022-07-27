@@ -1,3 +1,5 @@
+<h1><a href = "https://leetcode.com/parth2001pks/">Leetcode Profile</a></h1>
+
 <h3><b>About</h3><b>
 
 - 👋 Hi, I’m @Parth-Shah-2001
@@ -11,6 +13,7 @@ Currently working on building a Advance Shopping cart which has User and Admin P
 
 <h3><b>Technologies</b></h3>
 
+<li>Data Structures</li>
 <li>Java</li>
 <li>Node Js</li>
 <li>React Js</li>
